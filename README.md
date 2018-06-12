@@ -1,0 +1,2 @@
+# OCR-Scanbot
+OCR Implementation 
